@@ -19,4 +19,5 @@ if __name__ == '__main__':
     print_hi('PyCharm6')
     print_hi('PyCharm7')
     print_hi('PyCharm8')
+    print_hi('PyCharm9')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
